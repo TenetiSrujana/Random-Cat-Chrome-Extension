@@ -66,6 +66,13 @@ The extension scans every `<img>` element on a webpage and requests a random cat
 
 ---
 
+## 🎥 Demo Video
+
+Watch the project demo here:
+
+https://drive.google.com/file/d/1b_GTyQmO0UImSPkIQiHRlXInw7Fa0e8n/view?usp=drivesdk
+
+---
 ## 👩‍💻 Author
 
 **Teneti Srujana**
